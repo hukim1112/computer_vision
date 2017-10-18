@@ -1,2 +1,7 @@
 scikit-image
 mahotas
+matplotlib
+numpy
+opencv-python
+opencv-contrib-python
+jupyter
